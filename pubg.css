@@ -1,0 +1,86 @@
+﻿* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  padding:5px;
+  background:black;
+}
+
+/* Header/Blog Title */
+.header {
+  padding:2px;
+  color:white;
+  background:black;
+}
+
+/* Style the top navigation bar */
+ul{
+    display:block;
+    list-style-type:none;
+margin:0;
+padding:5px 0px 5px 0px;
+    overflow:auto;
+    background-color:powderblue;
+
+}
+
+li {
+float:left;
+}
+
+li a {
+display:block;
+color:black;
+text-decoration:none;
+text-align:center;
+padding:14px 16px;
+}
+
+li a:hover{
+background-color:white;
+}
+
+
+img{
+float:left;
+margin-left:25px;
+}
+figcaption{
+float:left;
+}
+
+.footer {
+  padding:10px 5px 100px 5px;
+  background:lightgray;
+  margin-top: 15px;
+
+}
+.mar{
+  padding:-15px;
+  background:green;
+   margin-top:630px;
+display:block;
+}
+h3 a{
+text-decoration:none;
+float:left;
+text-align:left;
+color:black;
+margin-left:340px;
+margin-right:-300px;
+}
+h3 a:hover{
+background-color:white;}
+
+
+
+
+
+
+
+
+
+
+
+
